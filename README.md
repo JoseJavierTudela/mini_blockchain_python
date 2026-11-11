@@ -1,0 +1,1 @@
+Esta aplicación hecha en Python, recrea a menor escala como se enlazan los bloques de las blockchain y que pasa si hay un intentto de ataque intentando cambiar algún dato de la cadena. Como el Hash cambia y hace que de False (rompe la cadena).
